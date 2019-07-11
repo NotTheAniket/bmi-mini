@@ -27,6 +27,15 @@ public class MainActivity extends AppCompatActivity {
         weight = findViewById(R.id.iptWeight);
         height = findViewById(R.id.iptHeight);
         btnCalculate = findViewById(R.id.btnCalculate);
+
+
+
+        //test commits and overdue 
+        btnCalculate = findViewById(R.id.btnCalculate);
+        btnCalculate = findViewById(R.id.btnCalculate);
+        btnCalculate = findViewById(R.id.btnCalculate);
+
+
         progressBar = findViewById(R.id.progressBar);
         txtBMI = findViewById(R.id.txtBMI);
         btnCalculate.setOnClickListener(new View.OnClickListener() {
